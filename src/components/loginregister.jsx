@@ -190,7 +190,7 @@ const RegisterModal = ({ onClose }) => {
               <label className="flex items-center">
                 <input type="checkbox" className="form-checkbox" />
                 <span className="ml-2 text-sm text-gray-600">
-                  I accept the <a href="/" className="text-purple-500">Terms of Use</a> & <a href="/" className="text-purple-500">Privacy Policy</a>
+                  I accept the Terms of Use  &  Privacy Policy
                 </span>
               </label>
             </div>

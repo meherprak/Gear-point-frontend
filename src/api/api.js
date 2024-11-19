@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API = 'http://localhost:3000';
+const API = 'https://gear-point-server.onrender.com';
 
 // Bike APIs
 const getBikes = () => axios.get(`${API}/bikes/all`);

@@ -105,7 +105,7 @@ const Navbar = () => {
               } hover:text-white text-[18px] font-medium cursor-pointer`}
               onClick={() => setActive(nav.path)}
             >
-              <a href={`${API}/${nav.id}`}>{nav.title}</a>
+              <Link to={nav.id}>{nav.title}</Link>
             </li>
           ))}
         </ul>
@@ -135,7 +135,7 @@ const Navbar = () => {
                     setActive(nav.title);
                   }}
                 >
-                  <a href={`${API}/${nav.id}`}>{nav.title}</a>
+                  <Link to={nav.id}>{nav.title}</Link>
                 </li>
               ))}
             </ul>

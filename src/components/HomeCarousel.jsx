@@ -113,7 +113,7 @@ const HomeCarousel = () => {
             {/* <!-- list thumnail --> */}
             <div className="thumbnail h-[15vh]">
                 <div className="item ">
-                    <img src="../../src/assets/img-1.webp"className='h-[23vh]'/>
+                    <img src="https://marvel-b1-cdn.bc0a.com/f00000000269959/s18390.pcdn.co/wp-content/uploads/2023/11/2024-KTM-DUKE-range.jpg"className='h-[23vh]'/>
                     <div className="content">
                         <div className="title">
                           Yamaha
@@ -124,7 +124,7 @@ const HomeCarousel = () => {
                     </div>
                 </div>
                 <div className="item">
-                    <img src="../../src/assets/img-2.jpg"/>
+                    <img src="https://www.royalenfield.com/content/dam/re-ev/flying-flea-ev-desktop.jpg"/>
                     <div className="content">
                         <div className="title">
                           Royal Enfield
@@ -135,7 +135,7 @@ const HomeCarousel = () => {
                     </div>
                 </div>
                 <div className="item">
-                    <img src="../../src/assets/img-3.webp"/>
+                    <img src="https://www.tvsmotor.com/-/media/HomeOptimizedImages/TVS-Home-Page-WebP/Desktop/Vehicles/Scooters/TVS_675x357.webp?la=en&hash=805E78D865F9F83A2DAF858809D2A841"/>
                     <div className="content">
                         <div className="title">
                           TVS
